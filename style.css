@@ -1,0 +1,29 @@
+img {
+    height: 300px;
+    width: 400px;
+}
+
+.rani{
+    color: rgb(232, 232, 22);
+}
+
+body {
+    background-attachment: fixed;
+    background-color:rgb(162, 174, 177);
+}
+/* .container::after {
+    content: "";
+    clear: both;
+    display:table;
+} */
+.container{
+    text-size-adjust: 5px ;
+    width: 50%;
+    padding:7px;
+}
+.container a{
+    text-decoration: none;
+}
+.img2 {
+    float: right;
+}
